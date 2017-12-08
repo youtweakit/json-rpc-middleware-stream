@@ -1,5 +1,5 @@
 {
-  "name": "json-rpc-middleware-stream",
+  "name": "json-rpc-mid-st-es5",
   "version": "1.0.1",
   "description": "",
   "main": "index-es5.js",
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kumavis/json-rpc-middleware-stream.git"
+    "url": "git+https://github.com/youtweakit/json-rpc-middleware-stream.git"
   },
   "author": "",
   "license": "ISC",
